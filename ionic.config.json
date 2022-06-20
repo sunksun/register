@@ -1,0 +1,8 @@
+{
+  "name": "register",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8e360ff9"
+}
